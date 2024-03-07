@@ -6,7 +6,7 @@ Welcome to the README for the "Letter Quiz" Unity project! This document provide
 
 To get a visual overview of the "Letter Quiz" Unity project, please watch the following video:
 
-[![Video Thumbnail](https://i.stack.imgur.com/black.png)](https://www.veed.io/view/a50723c6-0027-4427-a328-e877eabcca0c?panel=share)
+[![Video Thumbnail](https://i.ibb.co/pKNRgtp/Unity-Letter-00-00-02-20240306-203844-0.png)](https://www.veed.io/view/a50723c6-0027-4427-a328-e877eabcca0c?panel=share)
  <video src="videos/Unity-Letter.mp4" width="320" height="240" controls></video>
 
 ## Project Overview ##
