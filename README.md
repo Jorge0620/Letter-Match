@@ -6,7 +6,7 @@ Welcome to the README for the "Letter Quiz" Unity project! This document provide
 
 To get a visual overview of the "Letter Quiz" Unity project, please watch the following video:
 
-![Video Caption](result/Unity-Letter.wmv)
+![Video Caption](result/Unity-Letter.mp4)
 
 
 ## Project Overview ##
