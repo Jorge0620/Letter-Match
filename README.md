@@ -8,7 +8,7 @@ To get a visual overview of the "Letter Quiz" Unity project, please watch the fo
 
 ![Video Caption](videos/Unity-Letter.mp4)
 [![Watch the video](https://www.veed.io/view/a50723c6-0027-4427-a328-e877eabcca0c?panel=share)]
- <video src="https://www.veed.io/view/a50723c6-0027-4427-a328-e877eabcca0c?panel=share"></video>
+ <video src="videos/Unity-Letter.mp4"></video>
 
 ## Project Overview ##
 
